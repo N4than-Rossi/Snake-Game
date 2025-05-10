@@ -12,9 +12,9 @@ Esse projeto é um jogo conhecido como snake game, desenvolvido em C++, no qual 
 
 ## 🚀 Instalação e Execução
 
-1. Clone este repositório: ajeitar aqui depois
+1. Clone este repositório:
    ```sh
-   git clone https://github.com/N4than-Rossi/Snake-Game
+   git clone https://github.com/N4than-Rossi/Snake-Game.git
    ```
    
 3. Acesse o diretório do projeto:
