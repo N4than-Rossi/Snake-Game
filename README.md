@@ -23,7 +23,7 @@ Esse projeto é um jogo conhecido como snake game, desenvolvido em C++, no qual 
    ```
 4. Compile o código-fonte:
    ```sh
-   g++ main.c -o snake-game
+   g++ main.cpp -o snake-game
    ```
 5. Execute o programa:
    ```sh
